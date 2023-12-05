@@ -2,7 +2,6 @@
 <p align="center">
   <img width='300' src="https://user-images.githubusercontent.com/2848732/226624229-7f1e5f8b-c550-47d4-85b2-5c90aee22417.png">
 </p>
-
 <!-- primary badges -->
 <p align="center">
   <a href="https://github.com/starknet-io/starknet.js/actions">
